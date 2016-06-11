@@ -1,0 +1,19 @@
+/* Themify Customize Styling */
+#site-logo, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 50px;
+	height: 50px; 
+}
+#site-logo, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 50px; 
+}
+#site-description {		text-align:left; 
+}
+.page-title {	
+	font-family:Roboto; 
+}
+.module-title {	
+	font-family:Roboto; 
+}
+
+/* Themify Custom CSS */
+#headerwrap {
+	background: rgba(250,247,60,0.0)!important;
+}
